@@ -3,3 +3,4 @@ project:
   toc:
     - file: content/index.md
     - file: content/whoami.md
+    - file: content/isolation_to_connection.md

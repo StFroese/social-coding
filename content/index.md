@@ -7,11 +7,4 @@ This talks is presented in MyST as inspired by [Angus Hollands](https://github.c
 
 As a prime example for the intention of this talk the code is publicly available on GitHub and deployed to this GitHub page. 
 
-:::{important} Have you ever felt left alone with your research?
-
-- How to get unstuck
-- How to reach out
-- How to collaborate better
-- How to shape your own path
-
-:::
+# Have you ever felt left alone with your research? This talk is for you!
