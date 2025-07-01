@@ -5,3 +5,4 @@ project:
     - file: content/whoami.md
     - file: content/isolation_to_connection.md
     - file: content/oss_is_social.md
+    - file: content/communication.md
