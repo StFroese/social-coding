@@ -8,7 +8,7 @@ A beautiful tower. 4 * 101 = 404?
 ```
 
 - PostDoc at Academia Sinica
-- Maintaining MCEq
+- Maintaining [MCEq](https://github.com/mceq-project/mceq)
 
 
 ## Aachen
@@ -17,7 +17,7 @@ A beautiful tower. 4 * 101 = 404?
 
 A beautiful talk. I love memes 
 ```
-- Working for ErUM-Data-Hub as Scientific Advisor
+- Worked for [ErUM-Data-Hub](https://erumdatahub.de) as Scientific Advisor
 - Workshops, Schools, and so on ...
 
 
@@ -27,5 +27,5 @@ A beautiful talk. I love memes
 
 A beautiful telescope. Well not Dortmund, but La Palma 🏝 
 ```
-- Working on Dark Matter search with the MAGIC Telescopes
-- Worked on ctapipe and Gammapy
+- Worked on Dark Matter search with the MAGIC Telescopes
+- Worked on [ctapipe](https://github.com/cta-observatory/ctapipe) and [Gammapy](https://github.com/gammapy/gammapy)
