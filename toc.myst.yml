@@ -4,3 +4,4 @@ project:
     - file: content/index.md
     - file: content/whoami.md
     - file: content/isolation_to_connection.md
+    - file: content/oss_is_social.md

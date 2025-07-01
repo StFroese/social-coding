@@ -40,7 +40,7 @@ You are stuck - feeling like there is no alternative to this Limbo
 
 # The turning Point
 
-I attended a workshop by ErUM-Data-Hub in 2023 on sustainibility in ErUM research. All participants got invited to join "Hannover Messe" (one of world's biggest trade fairs) a few weeks later.
+I attended a workshop by ErUM-Data-Hub in 2023 on sustainability in ErUM research. All participants got invited to join "Hannover Messe" (one of world's biggest trade fairs) a few weeks later.
 Me and two other people from Dortmund decided to take the opportunity and look for some potential job offers by the companies attending. 
 Little did I know that I would actually go home with a job offer from ErUM-Data-Hub! (or at least the offer to apply, there was an interview later)
 
