@@ -1,0 +1,5 @@
+version: 1
+project:
+  toc:
+    - file: content/index.md
+    - file: content/whoami.md

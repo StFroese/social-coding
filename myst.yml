@@ -1,0 +1,17 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+extends:
+  - toc.myst.yml
+project:
+  id: 06e1defd-0bbb-4bee-927f-4b271c96cf1c
+  title: How Code Helped Me Find My People
+  description: A talk about how coding is a social tool. Audience - Mostly PhD students feeling stuck in their field
+  # keywords: []
+  authors: Stefan Fröse
+  github: https://github.com/StFroese/social-coding
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  options:
+    logo_text: How Code Helped Me Find My People
+    # logo: media/logo.png
