@@ -38,7 +38,8 @@ The relative citation rate = mean citation rate of OA articles divided by the me
 
 # Metric beyond citations
 
-```note{Metrics}
+```{note}Metrics
+:label: metrics
 - Downloads
 - Reuse in talks/notebooks
 - Stars or forks on GitHub
@@ -50,15 +51,18 @@ The relative citation rate = mean citation rate of OA articles divided by the me
 You might already know that word.
 
 ```{warning} Hot Take
+:label: no-trust
 Science that is not reproducable can't be trusted!
 (Or at least you should be skeptical, as always) 
 ```
 More concepts apply:
 ```{figure} https://book.the-turing-way.org/build/reproducible-definit-4fe74d224e297be50862870357cf4922.svg
+:label: concepts
 Taken from [The Turing Way Community & Scriberia (2024)](https://doi.org/10.5281/ZENODO.3332807)
 ```
 
 ```{tip} The Black Box
+:label: black-box
 Although the above concepts are worth to implement they loose their purpose if the "_process_" is not understandable / a black box.
 ```
 
@@ -67,6 +71,7 @@ Although the above concepts are worth to implement they loose their purpose if t
 
 1. Open Notebooks
 ```{figure} https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Q0AkXSsMbp0TWgC58b3zdA.jpeg
+:label: notebooks
 Users of mybinder.org by [Juliette Taka](https://twitter.com/mybinderteam/status/1082556317842264064)
 ```
 
@@ -76,11 +81,12 @@ Users of mybinder.org by [Juliette Taka](https://twitter.com/mybinderteam/status
 <iframe src="https://veronikach.com/failure/shadow-cv/" width="100%" height="400px"></iframe>
 
 
-3. Lay Summaries (Summary of a research project written for members of the public)
-
-
-4. Talks and posters (you know that one)
-5. Social media (Mastodon/Bluesky or whatever we use next year)
+```{note} Other Channels
+:label: other
+- Lay Summaries (Summary of a research project written for members of the public)
+- Talks and posters (you know that one)
+- Social media (Mastodon/Bluesky or whatever we use next year)
+```
 
 
 

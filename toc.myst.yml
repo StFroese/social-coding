@@ -43,5 +43,4 @@ project:
         - file: content/slides/slide-25.md
         - file: content/slides/slide-26.md
         - file: content/slides/slide-27.md
-        - file: content/slides/slide-28.md
-        - file: content/slides/slide-29.md
+      - file: content/slides/conclusion.md
