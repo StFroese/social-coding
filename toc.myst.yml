@@ -6,3 +6,42 @@ project:
     - file: content/isolation_to_connection.md
     - file: content/oss_is_social.md
     - file: content/communication.md
+    - title: Slides
+      children:
+      - file: content/slides/slide-01.md
+      - title: whoami
+        children:
+        - file: content/slides/slide-02.md
+        - file: content/slides/slide-03.md
+        - file: content/slides/slide-04.md
+      - title: From Isolation to Connection
+        children:
+        - file: content/slides/slide-05.md
+        - file: content/slides/slide-06.md
+        - file: content/slides/slide-07.md
+        - file: content/slides/slide-08.md
+        - file: content/slides/slide-09.md
+        - file: content/slides/slide-10.md
+        - file: content/slides/slide-11.md
+      - title: Open Source is Social
+        children:
+        - file: content/slides/slide-12.md
+        - file: content/slides/slide-13.md
+        - file: content/slides/slide-14.md
+        - file: content/slides/slide-15.md
+        - file: content/slides/slide-16.md
+        - file: content/slides/slide-17.md
+        - file: content/slides/slide-18.md
+      - title: Communication Beyond GitHub
+        children:
+        - file: content/slides/slide-19.md
+        - file: content/slides/slide-20.md
+        - file: content/slides/slide-21.md
+        - file: content/slides/slide-22.md
+        - file: content/slides/slide-23.md
+        - file: content/slides/slide-24.md
+        - file: content/slides/slide-25.md
+        - file: content/slides/slide-26.md
+        - file: content/slides/slide-27.md
+        - file: content/slides/slide-28.md
+        - file: content/slides/slide-29.md

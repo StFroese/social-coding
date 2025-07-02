@@ -9,14 +9,18 @@ Hot topic.
 
 What is research output?
 
+```{tip} Research Output
+:label: output
 - 🧪 Code
 - 📊 Data
 - 📓 Notebooks
 - 📄 Docs/tutorials
 - 🧵 Threads and blogs
 - 🗣️ Talks and teaching materials
+```
 
 ```{note} This it the Way
+:label: the-way
 From Open Data to Open Notebooks and everythin in between.
 
 BUT: Won't somebody steal my work? Definitly an ethical decision to make!
@@ -27,6 +31,7 @@ Step forward towards open science as the alternative to waiting for the peer rev
 ```
 
 ```{figure} https://book.the-turing-way.org/build/open-access-citation-bdf8be4d5ebe8724e33776be0ebd504f.jpg
+:label: oa
 The relative citation rate = mean citation rate of OA articles divided by the mean citation rate of non-OA articles.
 [McKiernan et al., 2016](https://doi.org/10.7554/eLife.16800)
 ```

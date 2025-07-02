@@ -21,6 +21,7 @@ And then there might be a completely new thing to some of you: A BIG COLLABORATI
 Although in general I stand by the point that people science tend to be open and welcoming, difficult people definitely exist!
 
 ```{tip} A dive into the scientific community
+:label: firstyear
 - Pros: Conferences, workshops, new people, THE COLLABORATION
 - Cons: Topic changes, unclear instructions, THE COLLABORATION (yes again)
 ```
@@ -28,13 +29,19 @@ Although in general I stand by the point that people science tend to be open and
 As your PhD further progress you might get the feeling that you are the only one struggling (good ol' imposter syndrom) or that there
 is nobody in the group or collaboration that can help. 
 
+```{figure} ../media/imposter.jpg
+:label: imposter
+```
+
 ```{blockquote}
+:label: quote:nohelp
 Nobody is working on my topic, I don't know who to ask for help 😩
 
 --- Me at some point probably
 ```
 
 ```{important} The realisation
+:label: realize-stuck
 You are stuck - feeling like there is no alternative to this Limbo
 ```
 
@@ -45,6 +52,7 @@ Me and two other people from Dortmund decided to take the opportunity and look f
 Little did I know that I would actually go home with a job offer from ErUM-Data-Hub! (or at least the offer to apply, there was an interview later)
 
 ```{tip} Pro tip
+:label: pro-tip
 Connect with other outside of your field!
 ```
 
@@ -52,6 +60,7 @@ Part of my job at the Hub was to attend a vast amount of workshops and schools w
 I met so many new people from different fields.
 
 ```{tip} Conclusion
+:label: network-not-game
 Network is key but some treat it as a game.
 ```{blockquote}
 Gotta Catch 'Em All
@@ -65,10 +74,12 @@ The people I stayed in touch with were the people I could talk about coding prob
 Then I realized something very important and life changing (regarding my research):
 
 ```{note} Another Realisation
+:label: turnover
 People are indeed working on the same topic! Not in my working group, not in my collaboration, BUT in other field!
 ```
 
 ```{note} The Room where it happens (-Aaron Burr, Hamilton the Musical)
+:label: the-room
 The exchange I was looking for happens online, on platforms like GitHub!
 ```
 
